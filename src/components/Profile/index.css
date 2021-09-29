@@ -1,0 +1,11 @@
+.profile {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/profile-bg.png');
+  max-width: 35vh;
+  background-size: cover;
+  height: 30vh;
+  padding: 10px;
+}
+.username {
+  color: blueviolet;
+  font-family: Bree serif;
+}

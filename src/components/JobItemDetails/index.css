@@ -1,0 +1,40 @@
+.jobsEach {
+  background-color: black;
+  min-height: 180vh;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.visit {
+  background-color: transparent;
+  color: rgb(135, 135, 204);
+  font-weight: 600;
+  border: none;
+  padding: 5px;
+  font-size: large;
+}
+.skills-ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.s {
+  color: white;
+  margin-left: 10vh;
+}
+.skill-list {
+  list-style-type: none;
+
+  margin: 30px;
+  color: white;
+  display: flex;
+}
+.skill-logo {
+  height: 10vh;
+  width: 10vh;
+}
+.list-life {
+  display: flex;
+  color: white;
+}

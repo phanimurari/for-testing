@@ -1,0 +1,48 @@
+.bg {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.card {
+  background-color: black;
+  border-radius: 10px;
+  border: 1px solid lightgray;
+  padding: 20px;
+  height: 45vh;
+  color: white;
+  font-family: Bree Serif;
+  display: flex;
+  flex-direction: column;
+  font-size: small;
+}
+.login-logo {
+  text-align: center;
+  margin: 20px;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+.input {
+  padding: 8px;
+  color: gray;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+.login-btn {
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+}
+.error {
+  color: red;
+  margin-top: 0px;
+}

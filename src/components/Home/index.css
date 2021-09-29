@@ -1,0 +1,22 @@
+.home-Show {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+  color: white;
+  font-family: Bree serif;
+  display: flex;
+  flex-direction: column;
+
+  background-color: black;
+}
+.home-details {
+  max-width: 60%;
+}
+.home-heading {
+  font-size: 70px;
+}
+.home-para {
+  font-size: 30px;
+  font-weight: normal;
+  font-family: Roboto;
+}

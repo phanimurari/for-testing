@@ -1,0 +1,9 @@
+.list-employees {
+  list-style-type: none;
+  display: flex;
+  align-items: center;
+  margin: 5px;
+}
+.box {
+  margin-right: 8px;
+}

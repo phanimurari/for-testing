@@ -1,0 +1,48 @@
+.job-list {
+  list-style-type: none;
+  background-color: #475569;
+  min-width: 70%;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 10px;
+  color: white;
+  font-family: Bree Serif;
+}
+.ul-job {
+  width: 800px;
+}
+.link-job {
+  text-decoration: none;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.company {
+  height: 10vh;
+  width: 10vh;
+  margin-right: 10px;
+}
+.star {
+  display: flex;
+  align-items: center;
+}
+.map {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.failure-jobs-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+.no-jobs {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
