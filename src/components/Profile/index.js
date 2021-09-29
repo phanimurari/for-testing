@@ -77,7 +77,7 @@ class Profile extends Component {
     return (
       <div className="profile">
         <img src={profileImageUrl} alt="profile" />
-        <h1 className="username">{name}</h1>
+        <p className="username">{name}</p>
         <p>{shortBio}</p>
       </div>
     )
